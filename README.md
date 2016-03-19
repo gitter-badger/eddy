@@ -16,6 +16,8 @@ Eddy is written in [Python] and make use of the [PyQt5] python bindings for the 
 
 ### About Graphol
 
+[![Join the chat at https://gitter.im/danielepantaleone/eddy](https://badges.gitter.im/danielepantaleone/eddy.svg)](https://gitter.im/danielepantaleone/eddy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Graphol] is a novel language for the specification and visualization of Description Logic (DL) ontologies, 
 developed by members of the DASI-lab group of the [Dipartimento di Ingegneria Informatica, Automatica e Gestionale "A.Ruberti"] 
 at [Sapienza] University of Rome. Graphol  offers a completely visual representation of ontologies to users, in order to help 
